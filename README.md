@@ -20,4 +20,4 @@ A simple note-taking app built with vanilla HTML, CSS, and JavaScript.
 
 ## What I Learned
 
-(img/Screenshot 2026-10-27 134008.png)
+![Quick Notes home screen](img/Screenshot%202026-10-27%20134008.png)
