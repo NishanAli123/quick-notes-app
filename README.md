@@ -20,6 +20,4 @@ A simple note-taking app built with vanilla HTML, CSS, and JavaScript.
 
 ## What I Learned
 
-- DOM manipulation
-- Working with localStorage and JSON
-- Array methods like map, filter, and unshift
+(img/Screenshot 2026-10-27 134008.png)
